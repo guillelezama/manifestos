@@ -5,7 +5,7 @@
 This repository contains the code used in my dissertation paper's analysis. The objective is to identify the issues discussed in politicians' proposals by analyzing 11,422 mayoral candidates' manifestos from Brazil's 2012 election.
 
 ## Contact
-For questions, suggestions, or comments, please email: guillelezama@pitt.edu
+For questions, suggestions, or comments, please email: guillelezama [at] pitt [dot] edu
 
 ## Methodology
 1. **Data Collection**: Scraped PDFs of manifestos from the TSE website using candidate IDs, converting them into JSON format.
